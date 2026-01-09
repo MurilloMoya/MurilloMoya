@@ -4,14 +4,7 @@
 Tenho 18 anos. Realizei um ano eletivo de High School na Califórnia, na Monterey Bay Academy.
 
 #### 🎓 `Estudante de Sistemas de Informação | FIAP`  
-💻 Tecnologias de interesse: Java • HTML • CSS • JavaScript
-
-### 🚀 Objetivo  
-Busco constantemente aprimorar meus conhecimentos por meio de estudos, projetos práticos e cursos, com o objetivo de evoluir profissionalmente e construir uma carreira sólida na área de tecnologia e desenvolvimento de software.
-
-
-
-<div align="left">
+💻 Tecnologias de interesse: <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -24,6 +17,11 @@ Busco constantemente aprimorar meus conhecimentos por meio de estudos, projetos 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+### 🚀 Objetivo  
+Busco constantemente aprimorar meus conhecimentos por meio de estudos, projetos práticos e cursos, com o objetivo de evoluir profissionalmente e construir uma carreira sólida na área de tecnologia e desenvolvimento de software.
+<br>
+
 
 ###
 
