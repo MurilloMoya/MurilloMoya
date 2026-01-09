@@ -4,7 +4,8 @@
 Tenho 18 anos. Realizei um ano eletivo de High School na Califórnia, na Monterey Bay Academy.
 
 #### 🎓 `Estudante de Sistemas de Informação | FIAP`  
-#### 💻 Tecnologias de interesse   <div align="left">
+#### 💻 Tecnologias de interesse  
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
