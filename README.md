@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Murillo Moya
 
-### 👋 Sou Murillo Moya Martins  
+### Sou Murillo Moya Martins  
 Tenho 18 anos. Realizei um ano eletivo de High School na Califórnia, na Monterey Bay Academy.
 
 #### 🎓 `Estudante de Sistemas de Informação | FIAP`  
