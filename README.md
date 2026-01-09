@@ -1,9 +1,10 @@
 # 👩🏻‍💻 Murillo Moya
 
 ### 👋 Sou Murillo Moya Martins  
+**`Desenvolvedora FullStack`**
 Tenho 18 anos. Realizei um ano eletivo de High School na Califórnia, na Monterey Bay Academy.
 
-#### **`🎓 Estudante de Sistemas de Informação | FIAP´**
+####**`🎓 Estudante de Sistemas de Informação | FIAP `**
 💻 Tecnologias de interesse: Java • HTML • CSS • JavaScript
 
 ### 🚀 Objetivo  
