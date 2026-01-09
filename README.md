@@ -20,14 +20,6 @@ Sou Murillo Moya Martins, tenho 18 anos. Concluí o ensino médio no Colégio Ad
 
 ###
 
-<div align="left">
-  <a href="[www.linkedin.com/in/murillo-moya](https://www.linkedin.com/in/murillo-moya-43b3b423b/)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="murillo.moya.07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 
