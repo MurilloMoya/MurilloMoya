@@ -1,8 +1,9 @@
 # 👩🏻‍💻 Murillo Moya
 
-**`Estudante de Sistema de Informação`**
-
-Sou Murillo Moya Martins, tenho 18 anos. Realizei um ano eletivo de High School na Califórnia, na Monterey Bay Academy. Atualmente, curso Sistemas de Informação na FIAP. Tenho grande interesse em tecnologia, programação e desenvolvimento de sistemas, com foco em Java e fundamentos de front-end. Busco constantemente aprimorar meus conhecimentos por meio de estudos, projetos práticos e cursos, com o objetivo de evoluir profissionalmente e construir uma carreira sólida na área de tecnologia e desenvolvimento de software.
+Sou Murillo Moya Martins, tenho 18 anos. Realizei um ano eletivo de High School na Califórnia, na Monterey Bay Academy.
+🎓 **`Estudante de Sistemas de Informação | FIAP`**
+💻 Tenho grande interesse em tecnologia, como Java  • HTML • CSS • JavaScript.
+🚀 Busco constantemente aprimorar meus conhecimentos por meio de estudos, projetos práticos e cursos, com o objetivo de evoluir profissionalmente e construir uma carreira sólida na área de tecnologia e desenvolvimento de software.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
