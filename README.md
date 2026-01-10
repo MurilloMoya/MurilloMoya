@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Murillo Moya
 
 ### Sou Murillo Moya Martins  
-Tenho 18 anos. Realizei um ano letivo de High School na Califórnia, na Monterey Bay Academy.
+Tenho 18 anos. Estudei um ano letivo de High School na Califórnia, na Monterey Bay Academy.
 
 ### 🎓 `Estudante de Sistemas de Informação | FIAP`  
 ### 💻 Tecnologias de interesse  
