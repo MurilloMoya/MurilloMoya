@@ -3,7 +3,7 @@
 ### Sou Murillo Moya Martins  
 Tenho 18 anos. Estudei um ano letivo de High School na Califórnia, na Monterey Bay Academy.
 
-### 🎓 `Estudante de Sistemas de Informação | FIAP`  
+### 🎓 `Estudante do 2º ano de Sistemas de Informação | FIAP`  
 ### 💻 Tecnologias de interesse  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
