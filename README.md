@@ -25,8 +25,6 @@ Tenho 18 anos. Estudei um ano letivo de High School na Califórnia, na Monterey 
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MurilloMoya)](https://github.com/MurilloMoya/github-readme-stats)
-
 ###
 
 <img src="https://raw.githubusercontent.com/MurilloMoya/MurilloMoya/output/snake.svg" alt="Snake animation" />
