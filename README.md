@@ -32,8 +32,7 @@ Tenho 18 anos. Estudei um ano letivo de High School na Califórnia, na Monterey 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=murillomoya&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murillomoya&layout=compact&theme=tokyonight" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murillomoya&show_icons-true&theme-gothan)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
