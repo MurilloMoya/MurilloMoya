@@ -25,7 +25,7 @@ Tenho 18 anos. Estudei um ano letivo de High School na Califórnia, na Monterey 
 </div>
 ---
 
----
+
 
 ###
 
