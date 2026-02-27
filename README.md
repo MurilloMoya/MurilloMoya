@@ -34,8 +34,8 @@ Quero crescer como desenvolvedor na área de tecnologia, construindo uma trajet�
 
 ## 📊 Estatísticas
 <div>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
 </div>
 
 <img src="https://raw.githubusercontent.com/MurilloMoya/MurilloMoya/output/snake.svg" alt="Snake animation" />
