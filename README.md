@@ -1,10 +1,14 @@
-# 👩🏻‍💻 Murillo Moya
 
-### Sou Murillo Moya Martins  
-Tenho 18 anos. Estudei um ano letivo de High School na Califórnia, na Monterey Bay Academy.
+#  `Murillo Moya Martins`  
+#### 🎓 Sistemas de Informação | FIAP  
+🌎 Intercâmbio | High School na Califórnia (Monterey Bay Academy)
 
-### 🎓 `Estudante de Sistemas de Informação | FIAP`  
-### 💻 Tecnologias de interesse  
+## Sobre mim  
+Estudante de Sistemas de Informação, apaixonado por tecnologia, programação e Inteligência Artificial.  
+Transformo meu aprendizado em projetos práticos, com foco no desenvolvimento de soluções inovadoras que façam a diferença na prática.
+
+## 💻 Tecnologias de interesse  
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img width="12"/>
@@ -23,17 +27,16 @@ Tenho 18 anos. Estudei um ano letivo de High School na Califórnia, na Monterey 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
 </div>
 
+## 🚀 Objetivo  
 
-
-### 🚀 Objetivo  
-Busco constantemente aprimorar meus conhecimentos por meio de estudos, projetos práticos e cursos, com o objetivo de evoluir profissionalmente e construir uma carreira sólida na área de tecnologia e desenvolvimento de software.
+Quero crescer como desenvolvedor na área de tecnologia, construindo uma trajetória sólida e enfrentando desafios que ampliem minha capacidade técnica e gerem resultados relevantes.
 <br>
 
-
-###
-
-
-###
+## 📊 Estatísticas
+<div>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
+</div>
 
 <img src="https://raw.githubusercontent.com/MurilloMoya/MurilloMoya/output/snake.svg" alt="Snake animation" />
 
