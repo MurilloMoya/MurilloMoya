@@ -1,7 +1,8 @@
 # Olá, eu sou Murillo Moya Martins 👋
 
-Estudante de **Sistemas de Informação** em jornada constante, da lógica de programação à engenharia de dados.
-Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados / Inteligência Artificial**.
+> Cada linha de código é uma ideia ganhando forma.
+
+Estudante de **Sistemas de Informação** na FIAP, programando em **Java** e **Python** com olhar voltado para **Engenharia de Dados** e **Inteligência Artificial**.
 
 ---
 
@@ -21,8 +22,7 @@ Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados
 Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
 ​```
 
-Cada etapa construída com prática, projetos próprios, do zero rumo à area de dados / inteligência artificial.
-
+Cada etapa construída com prática, projetos próprios, do zero rumo à área de dados / inteligência artificial.
 
 ---
 
