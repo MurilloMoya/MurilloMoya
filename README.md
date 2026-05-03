@@ -8,7 +8,7 @@ Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 Formado pela **Monterey Bay Academy** (Califórnia, EUA) — inglês fluente
+* 🌎 Formado pela **Monterey Bay Academy** (Califórnia, EUA)
 * 💻 Imerso em **Java** e **Python**, com olhar voltado ao backend
 * 📊 Aprofundando os fundamentos rumo à **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
@@ -21,7 +21,8 @@ Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados
 Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
 ​```
 
-Cada etapa construída com prática, projetos próprios e curiosidade — do zero rumo aos dados e à inteligência artificial.
+Cada etapa construída com prática, projetos próprios do zero rumo a área de dados / inteligência artificial.
+
 
 ---
 
@@ -41,7 +42,7 @@ Cada etapa construída com prática, projetos próprios e curiosidade — do zer
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
 
-**Onde escrevo código**
+**IDES**
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
