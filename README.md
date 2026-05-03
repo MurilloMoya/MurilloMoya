@@ -1,7 +1,8 @@
 <h1 align="center">Olá, eu sou Murillo Moya Martins 👋</h1>
 
 <p align="center">
-  <i>Da lógica de programação à engenharia de dados — uma trajetória construída em código.</i>
+  Estudante de <b>Sistemas de Informação</b> em evolução constante, da lógica de programação à engenharia de dados.<br>
+  Foco em <b>Java</b> e <b>Python</b>, com objetivo de atuar com <b>Engenharia de Dados e Inteligência Artificial</b>.
 </p>
 
 <p align="center">
@@ -12,11 +13,6 @@
 
 ---
 
-Estudante de **Sistemas de Informação** em evolução constante, da lógica de programação à engenharia de dados.
-Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e Inteligência Artificial**.
-
-<p align="center">◆ ◆ ◆</p>
-
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
@@ -25,17 +21,17 @@ Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e
 * 📊 Estudando os fundamentos para **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
 
-<p align="center">◆ ◆ ◆</p>
+---
 
 ## 🛣️ Minha Jornada
 
-​```
+```
 Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
-​```
+```
 
 Cada etapa construída com prática e projetos próprios, do zero rumo à área de dados.
 
-<p align="center">◆ ◆ ◆</p>
+---
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -59,7 +55,7 @@ Cada etapa construída com prática e projetos próprios, do zero rumo à área 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)](#)
 
-<p align="center">◆ ◆ ◆</p>
+---
 
 ## 📚 Conhecimentos
 
@@ -76,7 +72,7 @@ Cada etapa construída com prática e projetos próprios, do zero rumo à área 
 | Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
 | Inteligência Artificial | 🔜 Em breve |
 
-<p align="center">◆ ◆ ◆</p>
+---
 
 ## 📂 Projetos em Destaque
 
@@ -96,7 +92,7 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 🔗 [Ver repositório](https://github.com/MurilloMoya/java-fundamentos)
 
-<p align="center">◆ ◆ ◆</p>
+---
 
 ## 📊 Estatísticas
 
@@ -109,7 +105,7 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 </div>
 
-<p align="center">◆ ◆ ◆</p>
+---
 
 <p align="center">
   <i>"Cada projeto é um passo a mais rumo ao próximo nível."</i>
