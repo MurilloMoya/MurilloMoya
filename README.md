@@ -95,10 +95,10 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 ## 📊 Estatísticas
 
-<div>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
-</div>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurilloMoya&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurilloMoya&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurilloMoya&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
