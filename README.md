@@ -8,7 +8,7 @@ Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 High School na Califórnia (Monterey Bay Academy)
+* 🌎 High School na Califórnia (Monterey Bay Academy) — **inglês fluente**
 * 💻 Foco em **Java**, **Python** e desenvolvimento backend
 * 📊 Estudando os fundamentos para **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
@@ -95,10 +95,10 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 ## 📊 Estatísticas
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurilloMoya&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurilloMoya&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurilloMoya&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<div>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=0D0208&title_color=00FF41&text_color=00FF41&icon_color=008F11&border_color=00FF41" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=0D0208&title_color=00FF41&text_color=00FF41&icon_color=008F11&border_color=00FF41" />
+</div>
 
 ---
 
