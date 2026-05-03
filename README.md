@@ -1,7 +1,8 @@
 # Olá, eu sou Murillo Moya Martins 👋
 
-> Cada linha de código é uma ideia ganhando forma.
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1500&color=B14AED&center=true&vCenter=true&width=600&height=40&lines=Cada+linha+de+c%C3%B3digo+%C3%A9+uma+ideia+ganhando+forma." alt="Typing SVG" />
+</p>
 Estudante de **Sistemas de Informação** na FIAP, programando em **Java** e **Python** com olhar voltado para **Engenharia de Dados** e **Inteligência Artificial**.
 
 ---
