@@ -1,15 +1,7 @@
-<h1 align="center">Olá, eu sou Murillo Moya Martins 👋</h1>
+# Olá, eu sou Murillo Moya Martins 👋
 
-<p align="center">
-  Estudante de <b>Sistemas de Informação</b> em evolução constante, da lógica de programação à engenharia de dados.<br>
-  Foco em <b>Java</b> e <b>Python</b>, com objetivo de atuar com <b>Engenharia de Dados e Inteligência Artificial</b>.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/murillo-moya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/São_Paulo-BR-B14AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+Estudante de **Sistemas de Informação** em evolução constante, da lógica de programação à engenharia de dados.
+Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e Inteligência Artificial**.
 
 ---
 
@@ -25,9 +17,9 @@
 
 ## 🛣️ Minha Jornada
 
-```
+​```
 Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
-```
+​```
 
 Cada etapa construída com prática e projetos próprios, do zero rumo à área de dados.
 
@@ -84,13 +76,20 @@ Sistema que simula um campeonato de equipes de robótica: cadastro de equipes, r
 
 🔗 [Ver repositório](https://github.com/MurilloMoya/sprint-lab-programacao)
 
-### ☕ [java-fundamentos](https://github.com/MurilloMoya/java-fundamentos)
+### ☕ Java — Fundamentos
 
 > Java • Lógica e Estruturas de Controle
 
 Coleção de projetos para fixar os fundamentos da linguagem: calculadora, sistema de cálculo de frete, relatórios de vendas e RH, pontuação de F1 e jogo da adivinhação (este desenvolvido por iniciativa própria, fora das aulas).
 
 🔗 [Ver repositório](https://github.com/MurilloMoya/java-fundamentos)
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murillo-moya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
 
 ---
 
@@ -107,6 +106,4 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 ---
 
-<p align="center">
-  <i>"Cada projeto é um passo a mais rumo ao próximo nível."</i>
-</p>
+> *"Cada projeto é um passo a mais rumo ao próximo nível."*
