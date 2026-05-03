@@ -8,7 +8,7 @@ Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 Formado pela **Monterey Bay Academy** (Califórnia, EUA)
+* 🌎 Intercâmbio na **Monterey Bay Academy** (Califórnia, EUA)
 * 💻 Imerso em **Java** e **Python**, com olhar voltado ao backend
 * 📊 Aprofundando os fundamentos rumo à **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
