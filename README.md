@@ -95,9 +95,13 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 ## 📊 Estatísticas
 
-<div>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=0D0208&title_color=00FF41&text_color=00FF41&icon_color=008F11&border_color=00FF41" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=0D0208&title_color=00FF41&text_color=00FF41&icon_color=008F11&border_color=00FF41" />
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurilloMoya&theme=radical" />
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=0D0D2B&title_color=BB86FC&text_color=E0AAFF&icon_color=9D4EDD&border_color=BB86FC&hide_border=false" height="165em" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=0D0D2B&title_color=BB86FC&text_color=E0AAFF&icon_color=9D4EDD&border_color=BB86FC&hide_border=false" height="165em" />
+
 </div>
 
 ---
