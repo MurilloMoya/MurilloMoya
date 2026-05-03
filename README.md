@@ -1,7 +1,7 @@
 # Olá, eu sou Murillo Moya Martins 👋
 
 Estudante de **Sistemas de Informação** em jornada constante, da lógica de programação à engenharia de dados.
-Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados e Inteligência Artificial**.
+Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados / Inteligência Artificial**.
 
 ---
 
@@ -21,7 +21,8 @@ Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados
 Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
 ​```
 
-Cada etapa construída com prática, projetos próprios e curiosidade — do zero rumo aos dados e à inteligência artificial.
+Cada etapa construída com prática, projetos próprios, do zero rumo à area de dados / inteligência artificial.
+
 
 ---
 
@@ -59,7 +60,6 @@ Cada etapa construída com prática, projetos próprios e curiosidade — do zer
 | Programação Orientada a Objetos | 🔄 Em andamento |
 | Estrutura de Dados | 🔄 Em andamento |
 | Python | 🔄 Em andamento |
-| HTML, CSS & JavaScript | 🔄 Em andamento |
 | Banco de Dados (SQL & NoSQL) | 🔜 Em breve |
 | Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
 | Inteligência Artificial | 🔜 Em breve |
@@ -68,7 +68,7 @@ Cada etapa construída com prática, projetos próprios e curiosidade — do zer
 
 ## 📂 Projetos em Destaque
 
-### 🤖 Sistema de Campeonato de Robótica
+### 🤖 Sprint Laboratório de Programação
 
 [![Repo](https://img.shields.io/badge/GitHub-sprint--lab--programacao-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurilloMoya/sprint-lab-programacao)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
