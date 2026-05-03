@@ -8,7 +8,7 @@ Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 Formado pela **Monterey Bay Academy** (Califórnia, EUA)
+* 🌎 Intercâmbio pela **Monterey Bay Academy** (Califórnia, EUA)
 * 💻 Imerso em **Java** e **Python**, com olhar voltado ao backend
 * 📊 Aprofundando os fundamentos rumo à **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
@@ -59,7 +59,6 @@ Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──�
 | Programação Orientada a Objetos | 🔄 Em andamento |
 | Estrutura de Dados | 🔄 Em andamento |
 | Python | 🔄 Em andamento |
-| HTML, CSS & JavaScript | 🔄 Em andamento |
 | Banco de Dados (SQL & NoSQL) | 🔜 Em breve |
 | Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
 | Inteligência Artificial | 🔜 Em breve |
