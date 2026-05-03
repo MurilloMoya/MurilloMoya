@@ -8,7 +8,7 @@ Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 High School na Califórnia (Monterey Bay Academy)
+* 🌎 High School na Califórnia (Monterey Bay Academy) — **inglês fluente**
 * 💻 Foco em **Java**, **Python** e desenvolvimento backend
 * 📊 Estudando os fundamentos para **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
@@ -59,6 +59,7 @@ Cada etapa construída com prática e projetos próprios, do zero rumo à área 
 | Programação Orientada a Objetos | 🔄 Em andamento |
 | Estrutura de Dados | 🔄 Em andamento |
 | Python | 🔄 Em andamento |
+| HTML, CSS & JavaScript | 🔄 Em andamento |
 | Banco de Dados (SQL & NoSQL) | 🔜 Em breve |
 | Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
 | Inteligência Artificial | 🔜 Em breve |
@@ -98,8 +99,8 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurilloMoya&theme=radical" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=0D0D2B&title_color=BB86FC&text_color=E0AAFF&icon_color=9D4EDD&border_color=BB86FC&hide_border=false" height="165em" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=0D0D2B&title_color=BB86FC&text_color=E0AAFF&icon_color=9D4EDD&border_color=BB86FC&hide_border=false" height="165em" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=0D0221&title_color=B14AED&text_color=00F5FF&icon_color=B14AED&border_color=00F5FF&hide_border=false" height="165em" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=0D0221&title_color=B14AED&text_color=00F5FF&icon_color=B14AED&border_color=00F5FF&hide_border=false" height="165em" />
 
 </div>
 
