@@ -1,43 +1,122 @@
+# Murillo Moya Martins
 
-#  `Murillo Moya Martins`  
-#### 🎓 Sistemas de Informação | FIAP  
-🌎 Intercâmbio | High School na Califórnia (Monterey Bay Academy)
+```text
+> dev em construção · da lógica ao dado
+```
 
-## Sobre mim  
-Estudante de Sistemas de Informação, apaixonado por tecnologia, programação e Inteligência Artificial.  
-Transformo meu aprendizado em projetos práticos, com foco no desenvolvimento de soluções inovadoras que façam a diferença na prática.
+Estudante de **Sistemas de Informação** na FIAP, programando em **Java** e **Python** rumo à **Engenharia de Dados e IA**. Aprendi inglês morando na Califórnia durante o ensino médio — hoje ele me ajuda a destravar documentação, papers e cursos sem barreira.
 
-## 💻 Tecnologias de interesse  
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
-</div>
+## 👤 Quem é o Murillo
 
-## 🚀 Objetivo  
+| | |
+|---|---|
+| 🎓 | Sistemas de Informação · FIAP |
+| 🌎 | Monterey Bay Academy (CA, EUA) — inglês fluente |
+| 💻 | Backend em Java · Análise de dados em Python |
+| 🎯 | Construindo base sólida pra Eng. de Dados / IA |
+| 📍 | São Paulo, BR |
 
-Quero crescer como desenvolvedor na área de tecnologia, construindo uma trajetória sólida e enfrentando desafios que ampliem minha capacidade técnica e gerem resultados relevantes.
-<br>
+---
 
-## 📊 Estatísticas
-<div>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
-</div>
+## 🧭 Trilha que estou seguindo
 
-<img src="https://raw.githubusercontent.com/MurilloMoya/MurilloMoya/output/snake.svg" alt="Snake animation" />
+```text
+   lógica
+     │
+     ▼
+   java + POO ◀── (estou aqui)
+     │
+     ▼
+   python + dados
+     │
+     ▼
+   sql + modelagem
+     │
+     ▼
+   eng. de dados / IA
+```
 
-###
+> Não tenho pressa de pular etapa — tenho pressa de fazer cada uma direito.
+
+---
+
+## ⚙️ Stack
+
+**Programando hoje**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Próximas paradas**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+---
+
+## 📈 Onde estou em cada coisa
+
+| Tópico | Progresso |
+|---|---|
+| Lógica de Programação | `██████████` 100% |
+| Java — Fundamentos | `█████████░` 90% |
+| Programação Orientada a Objetos | `██████░░░░` 60% |
+| Estrutura de Dados | `█████░░░░░` 50% |
+| Python | `████░░░░░░` 40% |
+| HTML / CSS / JS | `███░░░░░░░` 30% |
+| SQL | `█░░░░░░░░░` 10% |
+| Pandas / NumPy | `░░░░░░░░░░` 0% |
+
+> *Auto-avaliação honesta — atualizo conforme avanço.*
+
+---
+
+## 🛠️ Coisas que construí
+
+### `🤖 sprint-lab-programacao`
+> Java · POO · Trabalho em equipe (FIAP)
+
+Sistema que simula um campeonato de robótica: cadastro de equipes, registro de combates, cálculo de pontuação, ranking automático e critério de desempate por nota de design.
+
+[`→ abrir repositório`](https://github.com/MurilloMoya/sprint-lab-programacao)
+
+---
+
+### `☕ java-fundamentos`
+> Java · Fundamentos da linguagem
+
+Conjunto de exercícios cobrindo lógica, estruturas de controle, vetores, matrizes e modularização. Inclui um **jogo da adivinhação** que fiz por iniciativa própria, fora das aulas, pra praticar lógica.
+
+[`→ abrir repositório`](https://github.com/MurilloMoya/java-fundamentos)
+
+---
+
+## 🎯 Onde quero chegar
+
+Atuar como **Engenheiro de Dados / IA**, com domínio sólido de Java e Python, escrevendo código que resolve problema real — não que apenas funciona. Pra chegar lá, o caminho é: terminar a base, construir projetos próprios e expor o trabalho.
+
+---
+
+## 📬 Onde me achar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murillo-moya)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+
+---
+
+## 📊 Métricas do perfil
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurilloMoya&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurilloMoya&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurilloMoya&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+
+```text
+// commit por commit, projeto por projeto.
+```
