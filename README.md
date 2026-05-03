@@ -110,12 +110,6 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 ---
 
-<div align="center">
-
-<br>
-
-✨ &nbsp; *"Cada projeto é um passo a mais rumo ao próximo nível."* &nbsp; ✨
-
-<br>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=B14AED&center=true&vCenter=true&width=700&lines=%E2%80%9CCada+projeto+%C3%A9+um+passo+a+mais+rumo+ao+pr%C3%B3ximo+n%C3%ADvel.%E2%80%9D" alt="Typing SVG" />
+</p>
