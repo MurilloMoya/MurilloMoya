@@ -1,104 +1,43 @@
-# Olá, eu sou Murillo Moya Martins 👋
 
-Estudante de **Sistemas de Informação** em evolução constante, da lógica de programação à engenharia de dados.
-Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e Inteligência Artificial**.
+#  `Murillo Moya Martins`  
+#### 🎓 Sistemas de Informação | FIAP  
+🌎 Intercâmbio | High School na Califórnia (Monterey Bay Academy)
 
----
+## Sobre mim  
+Estudante de Sistemas de Informação, apaixonado por tecnologia, programação e Inteligência Artificial.  
+Transformo meu aprendizado em projetos práticos, com foco no desenvolvimento de soluções inovadoras que façam a diferença na prática.
 
-## 🎯 Sobre mim
+## 💻 Tecnologias de interesse  
 
-* 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 High School na Califórnia (Monterey Bay Academy) — **inglês fluente**
-* 💻 Foco em **Java**, **Python** e desenvolvimento backend
-* 📊 Estudando os fundamentos para **Engenharia de Dados / IA**
-* 📍 São Paulo - SP
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"/>
+</div>
 
----
+## 🚀 Objetivo  
 
-## 🛣️ Minha Jornada
-
-​```
-Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
-​```
-
-Cada etapa construída com prática e projetos próprios, do zero rumo à área de dados.
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-**Linguagens**
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-
-**Em breve**
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
-
-**IDEs**
-
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)](#)
-
----
-
-## 📚 Conhecimentos
-
-| Área | Status |
-| --- | --- |
-| Lógica de Programação | ✅ Concluído |
-| Programação Estruturada | ✅ Concluído |
-| Java — Fundamentos | ✅ Concluído |
-| Programação Orientada a Objetos | 🔄 Em andamento |
-| Estrutura de Dados | 🔄 Em andamento |
-| Python | 🔄 Em andamento |
-| Banco de Dados (SQL & NoSQL) | 🔜 Em breve |
-| Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
-| Inteligência Artificial | 🔜 Em breve |
-
----
-
-## 📂 Projetos em Destaque
-
-### 🤖 Sistema de Campeonato de Robótica
-
-> Java • POO • Concluído em 2025
-
-Sistema que simula um campeonato de equipes de robótica: cadastro de equipes, registro de combates (vitória, empate ou derrota), cálculo automático da pontuação, ordenação do ranking e critério de desempate pela nota de design.
-
-🔗 [Ver repositório](https://github.com/MurilloMoya/sprint-lab-programacao)
-
-### ☕ Java — Fundamentos
-
-> Java • Lógica e Estruturas de Controle
-
-Coleção de projetos para fixar os fundamentos da linguagem: calculadora, sistema de cálculo de frete, relatórios de vendas e RH, pontuação de F1 e jogo da adivinhação (este desenvolvido por iniciativa própria, fora das aulas).
-
-🔗 [Ver repositório](https://github.com/MurilloMoya/java-fundamentos)
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murillo-moya)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
-
----
+Quero crescer como desenvolvedor na área de tecnologia, construindo uma trajetória sólida e enfrentando desafios que ampliem minha capacidade técnica e gerem resultados relevantes.
+<br>
 
 ## 📊 Estatísticas
+<div>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=000000&title_color=8A2BE2&text_color=40E0D0&icon_color=9370DB" />
+</div>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurilloMoya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img src="https://raw.githubusercontent.com/MurilloMoya/MurilloMoya/output/snake.svg" alt="Snake animation" />
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurilloMoya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurilloMoya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
----
-
-> *"Cada projeto é um passo a mais rumo ao próximo nível."*
+###
