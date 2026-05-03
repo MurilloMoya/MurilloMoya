@@ -1,28 +1,31 @@
 <h1 align="center">Olá, eu sou Murillo Moya Martins 👋</h1>
 
 <p align="center">
-  <b>Sistemas de Informação</b> · FIAP · São Paulo - SP<br>
-  Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; rumo a <b>Engenharia de Dados / IA</b>
+  <i>Da lógica de programação à engenharia de dados — uma trajetória construída em código.</i>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/murillo-moya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/São_Paulo-BR-B14AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
-
-## 🎯 Sobre mim
+---
 
 Estudante de **Sistemas de Informação** em evolução constante, da lógica de programação à engenharia de dados.
 Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e Inteligência Artificial**.
+
+<p align="center">◆ ◆ ◆</p>
+
+## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
 * 🌎 High School na Califórnia (Monterey Bay Academy) — **inglês fluente**
 * 💻 Foco em **Java**, **Python** e desenvolvimento backend
 * 📊 Estudando os fundamentos para **Engenharia de Dados / IA**
+* 📍 São Paulo - SP
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+<p align="center">◆ ◆ ◆</p>
 
 ## 🛣️ Minha Jornada
 
@@ -30,47 +33,33 @@ Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e
 Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
 ​```
 
-> Cada etapa construída com prática e projetos próprios, do zero rumo à área de dados.
+Cada etapa construída com prática e projetos próprios, do zero rumo à área de dados.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+<p align="center">◆ ◆ ◆</p>
 
 ## 🚀 Tecnologias & Ferramentas
 
-<table>
-<tr>
-<td valign="top" width="33%">
+**Linguagens**
 
-### 💻 Linguagens
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Em breve**
 
-</td>
-<td valign="top" width="33%">
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
 
-### 🔭 Em breve
+**IDEs**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)](#)
 
-</td>
-<td valign="top" width="33%">
-
-### 🛠️ IDEs
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+<p align="center">◆ ◆ ◆</p>
 
 ## 📚 Conhecimentos
 
@@ -87,7 +76,7 @@ Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──�
 | Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
 | Inteligência Artificial | 🔜 Em breve |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+<p align="center">◆ ◆ ◆</p>
 
 ## 📂 Projetos em Destaque
 
@@ -107,7 +96,7 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 🔗 [Ver repositório](https://github.com/MurilloMoya/java-fundamentos)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+<p align="center">◆ ◆ ◆</p>
 
 ## 📊 Estatísticas
 
@@ -120,7 +109,7 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px" />
+<p align="center">◆ ◆ ◆</p>
 
 <p align="center">
   <i>"Cada projeto é um passo a mais rumo ao próximo nível."</i>
