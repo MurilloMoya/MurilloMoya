@@ -1,3 +1,15 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Murillo%20Moya%20Martins&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Sistemas%20de%20Informação%20·%20FIAP%20·%20Java%20%26%20Python&descSize=18&descAlignY=58)
+
+<p align="center">
+  🇧🇷 Português &nbsp;|&nbsp; <a href="README.en.md">🇺🇸 English</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MurilloMoya&color=blueviolet&style=flat-square&label=Visitantes" />
+</p>
+
+---
+
 # Olá, eu sou Murillo Moya Martins 👋
 
 Estudante de **Sistemas de Informação** em evolução constante, da lógica de programação à engenharia de dados.
@@ -8,7 +20,7 @@ Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 High School na Califórnia (Monterey Bay Academy)
+* 🌎 High School na Califórnia (Monterey Bay Academy) — **inglês fluente**
 * 💻 Foco em **Java**, **Python** e desenvolvimento backend
 * 📊 Estudando os fundamentos para **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
@@ -66,6 +78,15 @@ Cada etapa construída com prática e projetos próprios, do zero rumo à área 
 
 ---
 
+## 📖 Estudando agora
+
+- 📘 Aprofundando **Programação Orientada a Objetos** com Java
+- 🐍 **Python** — fundamentos e primeiros passos com Pandas
+- 🌐 **HTML, CSS & JavaScript** — estruturação de páginas e estilização (display, float, flexbox)
+- 🗄️ **SQL** — modelagem e consultas básicas
+
+---
+
 ## 📂 Projetos em Destaque
 
 ### 🤖 [sprint-lab-programacao](https://github.com/MurilloMoya/sprint-lab-programacao)
@@ -76,7 +97,7 @@ Sistema que simula um campeonato de equipes de robótica: cadastro de equipes, r
 
 🔗 [Ver repositório](https://github.com/MurilloMoya/sprint-lab-programacao)
 
-### ☕ Java — Fundamentos
+### ☕ [java-fundamentos](https://github.com/MurilloMoya/java-fundamentos)
 
 > Java • Lógica e Estruturas de Controle
 
@@ -102,8 +123,14 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MurilloMoya&show_icons=true&locale=pt-br&bg_color=0D0221&title_color=B14AED&text_color=00F5FF&icon_color=B14AED&border_color=00F5FF&hide_border=false" height="165em" />
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&locale=pt-br&bg_color=0D0221&title_color=B14AED&text_color=00F5FF&icon_color=B14AED&border_color=00F5FF&hide_border=false" height="165em" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MurilloMoya&theme=radical&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
-> *"Cada projeto é um passo a mais rumo ao próximo nível."*
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer)
+
+<p align="center">
+  <i>"Cada projeto é um passo a mais rumo ao próximo nível."</i>
+</p>
