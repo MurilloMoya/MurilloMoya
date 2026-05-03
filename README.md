@@ -1,16 +1,14 @@
 # Olá, eu sou Murillo Moya Martins 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3500&pause=1500&color=B14AED&center=true&vCenter=true&width=600&height=40&lines=Cada+linha+de+c%C3%B3digo+%C3%A9+uma+ideia+ganhando+forma." alt="Typing SVG" />
-</p>
-Estudante de **Sistemas de Informação** na FIAP, programando em **Java** e **Python** com olhar voltado para **Engenharia de Dados** e **Inteligência Artificial**.
+Estudante de **Sistemas de Informação** em jornada constante, da lógica de programação à engenharia de dados.
+Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados e Inteligência Artificial**.
 
 ---
 
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 Intercâmbio na **Monterey Bay Academy** (Califórnia, EUA)
+* 🌎 Formado pela **Monterey Bay Academy** (Califórnia, EUA) — inglês fluente
 * 💻 Imerso em **Java** e **Python**, com olhar voltado ao backend
 * 📊 Aprofundando os fundamentos rumo à **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
@@ -23,7 +21,7 @@ Estudante de **Sistemas de Informação** na FIAP, programando em **Java** e **P
 Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
 ​```
 
-Cada etapa construída com prática, projetos próprios, do zero rumo à área de dados / inteligência artificial.
+Cada etapa construída com prática, projetos próprios e curiosidade — do zero rumo aos dados e à inteligência artificial.
 
 ---
 
@@ -61,6 +59,7 @@ Cada etapa construída com prática, projetos próprios, do zero rumo à área d
 | Programação Orientada a Objetos | 🔄 Em andamento |
 | Estrutura de Dados | 🔄 Em andamento |
 | Python | 🔄 Em andamento |
+| HTML, CSS & JavaScript | 🔄 Em andamento |
 | Banco de Dados (SQL & NoSQL) | 🔜 Em breve |
 | Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
 | Inteligência Artificial | 🔜 Em breve |
@@ -69,7 +68,7 @@ Cada etapa construída com prática, projetos próprios, do zero rumo à área d
 
 ## 📂 Projetos em Destaque
 
-### 🤖 Sprint Laboratório de Programação
+### 🤖 Sistema de Campeonato de Robótica
 
 [![Repo](https://img.shields.io/badge/GitHub-sprint--lab--programacao-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurilloMoya/sprint-lab-programacao)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
