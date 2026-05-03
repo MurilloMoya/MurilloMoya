@@ -111,5 +111,5 @@ Coleção de projetos para fixar os fundamentos da linguagem: calculadora, siste
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1500&color=B14AED&center=true&vCenter=true&width=700&lines=%E2%80%9CCada+projeto+%C3%A9+um+passo+a+mais+rumo+ao+pr%C3%B3ximo+n%C3%ADvel.%E2%80%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=520&height=40&lines=%22Cada+projeto+%C3%A9+um+passo+a+mais+rumo+ao+pr%C3%B3ximo+n%C3%ADvel.%22" alt="Typing SVG" />
 </p>
