@@ -1,122 +1,105 @@
-# Murillo Moya Martins
+# Olá, eu sou Murillo Moya Martins 👋
 
-```text
-> dev em construção · da lógica ao dado
-```
-
-Estudante de **Sistemas de Informação** na FIAP, programando em **Java** e **Python** rumo à **Engenharia de Dados e IA**. Aprendi inglês morando na Califórnia durante o ensino médio — hoje ele me ajuda a destravar documentação, papers e cursos sem barreira.
+Estudante de **Sistemas de Informação** em evolução constante, da lógica de programação à engenharia de dados.
+Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e Inteligência Artificial**.
 
 ---
 
-## 👤 Quem é o Murillo
+## 🎯 Sobre mim
 
-| | |
-|---|---|
-| 🎓 | Sistemas de Informação · FIAP |
-| 🌎 | Monterey Bay Academy (CA, EUA) — inglês fluente |
-| 💻 | Backend em Java · Análise de dados em Python |
-| 🎯 | Construindo base sólida pra Eng. de Dados / IA |
-| 📍 | São Paulo, BR |
+* 🎓 Cursando **Sistemas de Informação** na FIAP
+* 🌎 High School na Califórnia (Monterey Bay Academy) — **inglês fluente**
+* 💻 Foco em **Java**, **Python** e desenvolvimento backend
+* 📊 Estudando os fundamentos para **Engenharia de Dados / IA**
+* 📍 São Paulo - SP
 
 ---
 
-## 🧭 Trilha que estou seguindo
+## 🛣️ Minha Jornada
 
-```text
-   lógica
-     │
-     ▼
-   java + POO ◀── (estou aqui)
-     │
-     ▼
-   python + dados
-     │
-     ▼
-   sql + modelagem
-     │
-     ▼
-   eng. de dados / IA
-```
+​```
+Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
+​```
 
-> Não tenho pressa de pular etapa — tenho pressa de fazer cada uma direito.
+Cada etapa construída com prática e projetos próprios, do zero rumo à área de dados.
 
 ---
 
-## ⚙️ Stack
+## 🚀 Tecnologias & Ferramentas
 
-**Programando hoje**
+**Linguagens**
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
-**Próximas paradas**
+**Em breve**
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
 
----
+**IDEs**
 
-## 📈 Onde estou em cada coisa
-
-| Tópico | Progresso |
-|---|---|
-| Lógica de Programação | `██████████` 100% |
-| Java — Fundamentos | `█████████░` 90% |
-| Programação Orientada a Objetos | `██████░░░░` 60% |
-| Estrutura de Dados | `█████░░░░░` 50% |
-| Python | `████░░░░░░` 40% |
-| HTML / CSS / JS | `███░░░░░░░` 30% |
-| SQL | `█░░░░░░░░░` 10% |
-| Pandas / NumPy | `░░░░░░░░░░` 0% |
-
-> *Auto-avaliação honesta — atualizo conforme avanço.*
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)](#)
 
 ---
 
-## 🛠️ Coisas que construí
+## 📚 Conhecimentos
 
-### `🤖 sprint-lab-programacao`
-> Java · POO · Trabalho em equipe (FIAP)
-
-Sistema que simula um campeonato de robótica: cadastro de equipes, registro de combates, cálculo de pontuação, ranking automático e critério de desempate por nota de design.
-
-[`→ abrir repositório`](https://github.com/MurilloMoya/sprint-lab-programacao)
-
----
-
-### `☕ java-fundamentos`
-> Java · Fundamentos da linguagem
-
-Conjunto de exercícios cobrindo lógica, estruturas de controle, vetores, matrizes e modularização. Inclui um **jogo da adivinhação** que fiz por iniciativa própria, fora das aulas, pra praticar lógica.
-
-[`→ abrir repositório`](https://github.com/MurilloMoya/java-fundamentos)
+| Área | Status |
+| --- | --- |
+| Lógica de Programação | ✅ Concluído |
+| Programação Estruturada | ✅ Concluído |
+| Java — Fundamentos | ✅ Concluído |
+| Programação Orientada a Objetos | 🔄 Em andamento |
+| Estrutura de Dados | 🔄 Em andamento |
+| Python | 🔄 Em andamento |
+| HTML, CSS & JavaScript | 🔄 Em andamento |
+| Banco de Dados (SQL & NoSQL) | 🔜 Em breve |
+| Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
+| Inteligência Artificial | 🔜 Em breve |
 
 ---
 
-## 🎯 Onde quero chegar
+## 📂 Projetos em Destaque
 
-Atuar como **Engenheiro de Dados / IA**, com domínio sólido de Java e Python, escrevendo código que resolve problema real — não que apenas funciona. Pra chegar lá, o caminho é: terminar a base, construir projetos próprios e expor o trabalho.
+### 🤖 Sistema de Campeonato de Robótica
 
----
+> Java • POO • Concluído em 2025
 
-## 📬 Onde me achar
+Sistema que simula um campeonato de equipes de robótica: cadastro de equipes, registro de combates (vitória, empate ou derrota), cálculo automático da pontuação, ordenação do ranking e critério de desempate pela nota de design.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murillo-moya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL@gmail.com)
+🔗 [Ver repositório](https://github.com/MurilloMoya/sprint-lab-programacao)
 
----
+### ☕ Java — Fundamentos
 
-## 📊 Métricas do perfil
+> Java • Lógica e Estruturas de Controle
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurilloMoya&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+Coleção de projetos para fixar os fundamentos da linguagem: calculadora, sistema de cálculo de frete, relatórios de vendas e RH, pontuação de F1 e jogo da adivinhação (este desenvolvido por iniciativa própria, fora das aulas).
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurilloMoya&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurilloMoya&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+🔗 [Ver repositório](https://github.com/MurilloMoya/java-fundamentos)
 
 ---
 
-```text
-// commit por commit, projeto por projeto.
-```
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murillo-moya)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
+
+---
+
+## 📊 Estatísticas
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MurilloMoya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MurilloMoya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MurilloMoya&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+---
+
+> *"Cada projeto é um passo a mais rumo ao próximo nível."*
