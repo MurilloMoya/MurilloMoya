@@ -21,8 +21,7 @@ Construindo base sólida em **Java** e **Python**, rumo à **Engenharia de Dados
 Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──▶  Python + Dados  ──▶  Eng. de Dados / IA
 ​```
 
-Cada etapa construída com prática, projetos próprios do zero rumo a área de dados / inteligência artificial.
-
+> *Cada etapa construída com prática e projetos próprios, do zero rumo à área de dados / inteligência artificial.*
 
 ---
 
