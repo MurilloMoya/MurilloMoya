@@ -59,7 +59,6 @@ Cada etapa construída com prática e projetos próprios, do zero rumo à área 
 | Programação Orientada a Objetos | 🔄 Em andamento |
 | Estrutura de Dados | 🔄 Em andamento |
 | Python | 🔄 Em andamento |
-| HTML, CSS & JavaScript | 🔄 Em andamento |
 | Banco de Dados (SQL & NoSQL) | 🔜 Em breve |
 | Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
 | Inteligência Artificial | 🔜 Em breve |
