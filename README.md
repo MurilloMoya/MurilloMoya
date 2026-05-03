@@ -8,7 +8,7 @@ Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 High School na Califórnia (Monterey Bay Academy) — **inglês fluente**
+* 🌎 High School na Califórnia (Monterey Bay Academy)
 * 💻 Foco em **Java**, **Python** e desenvolvimento backend
 * 📊 Estudando os fundamentos para **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
