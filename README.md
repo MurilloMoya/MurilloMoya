@@ -8,7 +8,7 @@ Foco em **Java** e **Python**, com objetivo de atuar com **Engenharia de Dados e
 ## 🎯 Sobre mim
 
 * 🎓 Cursando **Sistemas de Informação** na FIAP
-* 🌎 High School na Califórnia (Monterey Bay Academy) — **inglês fluente**
+* 🌎 High School na Califórnia (Monterey Bay Academy)
 * 💻 Foco em **Java**, **Python** e desenvolvimento backend
 * 📊 Estudando os fundamentos para **Engenharia de Dados / IA**
 * 📍 São Paulo - SP
@@ -59,7 +59,6 @@ Cada etapa construída com prática e projetos próprios, do zero rumo à área 
 | Programação Orientada a Objetos | 🔄 Em andamento |
 | Estrutura de Dados | 🔄 Em andamento |
 | Python | 🔄 Em andamento |
-| HTML, CSS & JavaScript | 🔄 Em andamento |
 | Banco de Dados (SQL & NoSQL) | 🔜 Em breve |
 | Análise de Dados (Pandas, NumPy) | 🔜 Em breve |
 | Inteligência Artificial | 🔜 Em breve |
@@ -68,21 +67,25 @@ Cada etapa construída com prática e projetos próprios, do zero rumo à área 
 
 ## 📂 Projetos em Destaque
 
-### 🤖 [sprint-lab-programacao](https://github.com/MurilloMoya/sprint-lab-programacao)
+### 🤖 Sistema de Campeonato de Robótica
+
+[![Repo](https://img.shields.io/badge/GitHub-sprint--lab--programacao-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurilloMoya/sprint-lab-programacao)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 
 > Java • POO • Concluído em 2025
 
 Sistema que simula um campeonato de equipes de robótica: cadastro de equipes, registro de combates (vitória, empate ou derrota), cálculo automático da pontuação, ordenação do ranking e critério de desempate pela nota de design.
 
-🔗 [Ver repositório](https://github.com/MurilloMoya/sprint-lab-programacao)
+---
 
 ### ☕ Java — Fundamentos
+
+[![Repo](https://img.shields.io/badge/GitHub-java--fundamentos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurilloMoya/java-fundamentos)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 
 > Java • Lógica e Estruturas de Controle
 
 Coleção de projetos para fixar os fundamentos da linguagem: calculadora, sistema de cálculo de frete, relatórios de vendas e RH, pontuação de F1 e jogo da adivinhação (este desenvolvido por iniciativa própria, fora das aulas).
-
-🔗 [Ver repositório](https://github.com/MurilloMoya/java-fundamentos)
 
 ---
 
