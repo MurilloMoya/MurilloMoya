@@ -67,7 +67,7 @@ Lógica de Programação  ──▶  POO  ──▶  Estrutura de Dados  ──�
 
 ## 📂 Projetos em Destaque
 
-### 🤖 Sistema de Campeonato de Robótica
+### 🤖 Sprint Laboratório de Programação
 
 [![Repo](https://img.shields.io/badge/GitHub-sprint--lab--programacao-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MurilloMoya/sprint-lab-programacao)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
