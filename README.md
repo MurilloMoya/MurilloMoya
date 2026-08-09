@@ -19,7 +19,6 @@
 <div align="center">
 
 <table>
-<tr><th align="center" width="70">🧑‍💻</th><th align="left">Nome</th><td align="left">Murillo Moya Martins</td></tr>
 <tr><th align="center">📍</th><th align="left">Localização</th><td align="left">São Paulo, Brasil — Zona Norte</td></tr>
 <tr><th align="center">🎓</th><th align="left">Formação</th><td align="left">Sistemas de Informação — FIAP <i>(em andamento)</i></td></tr>
 <tr><th align="center">🌎</th><th align="left">Intercâmbio</th><td align="left">Monterey Bay Academy, Califórnia — EUA (6 meses)</td></tr>
