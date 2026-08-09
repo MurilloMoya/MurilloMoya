@@ -1,112 +1,110 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&height=50&lines=SYSTEM+BOOTING...;LOADING+USER+PROFILE...;IDENTITY+CONFIRMED%3A+MURILLO_MOYA;INITIALIZING+DATA+%2B+AI+MODULES..." alt="Boot Sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=SYSTEM+BOOTING...;LOADING+USER+PROFILE...;IDENTITY+CONFIRMED%3A+MURILLO_MOYA;MODULES%3A+JAVA+%2B+PYTHON+%2B+AI+%2F+DATA;STATUS%3A+SEEKING+ESTAGIO..." alt="Boot Sequence" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=MURILLO%20MOYA%20MARTINS&fontSize=32&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Data%20Engineering%20//%20System%20Online&descAlignY=60&descAlign=50&descSize=16" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=MURILLO%20MOYA%20MARTINS&fontSize=42&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Data%20%2B%20AI%20Engineering%20//%20Systems%20Online&descAlignY=58&descAlign=50" />
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://img.shields.io/badge/SCANS-9-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logo=linkedin&logoColor=black)](https://linkedin.com/in/murillo-moya)
-[![Gmail](https://img.shields.io/badge/EMAIL-TRANSMIT-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logo=gmail&logoColor=black)](mailto:SEU_EMAIL_AQUI@gmail.com)
+[<img src="https://cdn.simpleicons.org/gmail/00F0FF" width="32" height="32" />](mailto:SEU_EMAIL_AQUI@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/murillo-moya)
+[![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE-00F0FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=00F0FF)](https://github.com/MurilloMoya)
 
 </div>
 
 ---
 
-### 🧬 Sobre Mim
+## 🧬 SOBRE MIM
 
 <div align="center">
 
-| | |
-|---|---|
-| 👤 **USER** | Murillo Moya Martins |
-| 📍 **LOCATION** | São Paulo, BR |
-| 🎓 **STATUS** | Cursando Sistemas de Informação — FIAP |
-| 🌎 **EXCHANGE** | Monterey Bay Academy (California, US) |
-| 🎯 **MISSION** | Estágio em AI Engineering / Data Engineering |
-| ⚙️ **CORE_STACK** | `Java` :: `Python` |
-| 🚀 **CURRENT_FOCUS** | Engenharia de Dados → Inteligência Artificial |
+<table>
+<tr><th align="center" width="70">🧑‍💻</th><th align="left">Nome</th><td align="left">Murillo Moya Martins</td></tr>
+<tr><th align="center">📍</th><th align="left">Localização</th><td align="left">São Paulo, Brasil — Zona Norte</td></tr>
+<tr><th align="center">🎓</th><th align="left">Formação</th><td align="left">Sistemas de Informação — FIAP <i>(em andamento)</i></td></tr>
+<tr><th align="center">🌎</th><th align="left">Intercâmbio</th><td align="left">Monterey Bay Academy, Califórnia — EUA (6 meses)</td></tr>
+<tr><th align="center">🏦</th><th align="left">Experiência</th><td align="left">Jovem Aprendiz @ Banco Safra — Prevenção a Fraudes</td></tr>
+<tr><th align="center">🎯</th><th align="left">Missão</th><td align="left">Estágio em AI Engineering / Data Engineering</td></tr>
+<tr><th align="center">⚙️</th><th align="left">Stack core</th><td align="left">Java · Python · SQL</td></tr>
+<tr><th align="center">🚀</th><th align="left">Foco atual</th><td align="left">Construindo portfólio em IA generativa e RAG</td></tr>
+</table>
 
-</div>
+<br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=650&height=35&lines=Cada+linha+de+c%C3%B3digo+%C3%A9+um+passo+rumo+ao+pr%C3%B3ximo+n%C3%ADvel.;Construindo+base+s%C3%B3lida%2C+um+sistema+por+vez." />
-</div>
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-**Linguagens ativas**
-
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" height="60" />
-
-**Próximos módulos a carregar**
-
-<img src="https://skillicons.dev/icons?i=postgres,spring&theme=dark" height="60" />
-
-**Terminal / IDEs**
-
-<img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,git,github&theme=dark" height="60" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&height=35&lines=Cada+linha+de+c%C3%B3digo+%C3%A9+um+passo+rumo+ao+pr%C3%B3ximo+n%C3%ADvel.;Automatizando+processos%2C+treinando+modelos%2C+construindo+o+futuro." />
 </div>
 
 ---
 
-## 📚 Conhecimentos
+## 🛠️ TECH STACK
+
+<div align="center">
+
+#### Linguagens ativas
+
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" height="80" />
+
+#### Próximos módulos a carregar
+
+<img src="https://skillicons.dev/icons?i=postgres,spring&theme=dark" height="80" />
+
+#### Terminal / IDEs
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,git,github&theme=dark" height="80" />
+
+</div>
+
+---
+
+## 📚 MÓDULOS DE CONHECIMENTO
 
 <div align="center">
 
 | Módulo | Status |
 |---|:---:|
 | Lógica de Programação | 🟢 `ONLINE` |
-| Programação Estruturada | 🟢 `ONLINE` |
-| Java — Fundamentos | 🟢 `ONLINE` |
-| Programação Orientada a Objetos | 🟡 `LOADING...` |
-| Estrutura de Dados | 🟡 `LOADING...` |
-| Python | 🟡 `LOADING...` |
-| SQL & Banco de Dados | ⚪ `QUEUED` |
-| Análise de Dados (Pandas/NumPy) | ⚪ `QUEUED` |
-| Inteligência Artificial / RAG | ⚪ `QUEUED` |
+| Programação Orientada a Objetos (Java) | 🟢 `ONLINE` |
+| Estrutura de Dados | 🟢 `ONLINE` |
+| Python Aplicado a Dados | 🟡 `LOADING...` |
+| SQL & Modelagem de Banco de Dados | 🟡 `LOADING...` |
+| PySpark | 🟡 `LOADING...` |
+| Machine Learning (Scikit-learn) | 🟡 `LOADING...` |
+| IA Generativa / RAG / Agentes | 🟡 `LOADING...` |
+| n8n — Automação de Fluxos | ⚪ `QUEUED` |
 
 </div>
 
 ---
 
-## 📂 Projetos em Destaque
+## 📂 PROJETOS EM DESTAQUE
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%">
 
-### 🛰️ ETL Schiphol Airport
+### 🛰️ ETL com API de Voos Internacionais
 
 ![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
-![API](https://img.shields.io/badge/API__REST-FFFFFF?style=for-the-badge&logoColor=black)
-![Pipeline](https://img.shields.io/badge/DATA__PIPELINE-FFFFFF?style=for-the-badge&logoColor=black)
+![Requests](https://img.shields.io/badge/REQUESTS-FFFFFF?style=for-the-badge&logoColor=black)
+![Pandas](https://img.shields.io/badge/PANDAS-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black)
+![Postman](https://img.shields.io/badge/POSTMAN-FFFFFF?style=for-the-badge&logo=postman&logoColor=black)
 
-Pipeline ETL que extrai dados em tempo real da API pública do Aeroporto de Schiphol,
-trata paginação, normaliza timestamps para UTC e exporta para CSV.
+Pipeline ETL que consome a API pública de voos internacionais via `requests`,
+trata paginação e exporta os dados tratados com `pandas`. Endpoints prototipados
+e testados no Postman.
 
 [![ACCESS_REPO](https://img.shields.io/badge/ACCESS_REPO-→-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)](https://github.com/MurilloMoya/ETL-schiphol-airport)
 
 </td>
 <td width="50%">
 
-### 💳 Análise de Crédito — Machine Learning
+### 💳 Análise de Crédito com Machine Learning
 
 ![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
-![Sklearn](https://img.shields.io/badge/SCIKIT--LEARN-FFFFFF?style=for-the-badge&logoColor=black)
-![Jupyter](https://img.shields.io/badge/JUPYTER-FFFFFF?style=for-the-badge&logoColor=black)
+![Pandas](https://img.shields.io/badge/PANDAS-FFFFFF?style=for-the-badge&logo=pandas&logoColor=black)
+![Sklearn](https://img.shields.io/badge/SCIKIT--LEARN-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=black)
+![RandomForest](https://img.shields.io/badge/RANDOM__FOREST-FFFFFF?style=for-the-badge&logoColor=black)
 
 Classificação de risco de crédito usando dados do LendingClub. Comparação entre
 Árvore de Decisão e Random Forest para prever inadimplência, com análise exploratória.
@@ -123,12 +121,12 @@ Classificação de risco de crédito usando dados do LendingClub. Comparação e
 <tr>
 <td width="100%" align="center">
 
-### 🧠 Docstóteles — RAG + Web Scraping
+### 🧠 Docstóteles (RAG + Web Scraping)
 
 ![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-FFFFFF?style=for-the-badge&logoColor=black)
+![BeautifulSoup](https://img.shields.io/badge/BEAUTIFULSOUP-FFFFFF?style=for-the-badge&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-FFFFFF?style=for-the-badge&logoColor=black)
-![Scraping](https://img.shields.io/badge/WEB__SCRAPING-FFFFFF?style=for-the-badge&logoColor=black)
+![GroqGemini](https://img.shields.io/badge/GROQ_%2F_GEMINI-FFFFFF?style=for-the-badge&logoColor=black)
 
 Transforma documentações em chats com IA sempre atualizada, combinando scraping
 inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
@@ -138,36 +136,72 @@ inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
 
-## 🎯 Objetivos Atuais
+## 🔮 PROJETOS FUTUROS
 
 <div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| Objetivo | Status |
-|---|:---:|
-| Concluir fundamentos de Java e POO | ✅ |
-| Consolidar lógica de programação e estrutura de dados | ✅ |
-| Aprofundar Python aplicado a dados | 🟡 `EM PROGRESSO` |
-| Praticar SQL e modelagem de banco de dados | 🟡 `EM PROGRESSO` |
-| Construir Docstóteles — projeto de IA com RAG | 🟡 `22% CONCLUÍDO` |
-| Conquistar primeiro estágio em AI/Data Engineering | ⚪ `EM ABERTO` |
+### 📊 Pipeline de Categorização com IA + Banco de Dados
 
+![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-FFFFFF?style=for-the-badge&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM-FFFFFF?style=for-the-badge&logoColor=black)
+
+Pipeline que extrai dados de texto (tickets, conversas ou reviews), usa LLM para classificar
+por tema/categoria e persiste os dados estruturados em banco relacional para consulta e
+análise posterior.
+
+![Status](https://img.shields.io/badge/STATUS-PLANEJADO-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 FAQ Agent — WhatsApp
+
+![n8n](https://img.shields.io/badge/N8N-FFFFFF?style=for-the-badge&logoColor=black)
+![LLM](https://img.shields.io/badge/LLM-FFFFFF?style=for-the-badge&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FFFFFF?style=for-the-badge&logoColor=black)
+
+Agente conversacional via WhatsApp que responde perguntas frequentes automaticamente,
+usando LLM para entender a intenção da pergunta e retornar a resposta certa da base
+de conhecimento.
+
+![Status](https://img.shields.io/badge/STATUS-PLANEJADO-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
+
+</td>
+<td width="33%" valign="top">
+
+### 📰 News Curation Agent
+
+![Agno](https://img.shields.io/badge/AGNO-FFFFFF?style=for-the-badge&logoColor=black)
+![Multiagente](https://img.shields.io/badge/MULTIAGENTE-FFFFFF?style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+
+Sistema multiagente construído com Agno para curadoria automática de notícias relevantes
+por tema, com agentes especializados em busca, filtragem e resumo do conteúdo.
+
+![Status](https://img.shields.io/badge/STATUS-PLANEJADO-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MurilloMoya&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=MurilloMoya&theme=github-dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=MurilloMoya&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="70%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="49%" />
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurilloMoya&theme=react-dark&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&hide_border=true" width="98%" />
 
@@ -175,41 +209,8 @@ inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
 
 ---
 
-## 🏆 Conquistas
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MurilloMoya&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
-<!--
-Se o troféu acima aparecer quebrado, é porque sua conta ainda não tem
-histórico suficiente (poucos commits/repos públicos). Ele volta a funcionar
-sozinho conforme você usa mais o GitHub. Se preferir, remova esta seção
-inteira por enquanto e adicione de volta depois.
--->
-
----
-
-## 🐍 Atividade no GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MurilloMoya/MurilloMoya/output/github-contribution-grid-snake-dark.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/MurilloMoya/MurilloMoya/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-> ⚙️ *Esta imagem só aparece depois de você ativar o GitHub Action (arquivo `snake.yml`
-> fornecido separadamente). Até lá, fica quebrada — é esperado, não é erro.*
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3500&pause=1500&color=7DF9FF&center=true&vCenter=true&width=600&height=30&lines=%22Cada+projeto+%C3%A9+um+passo+a+mais+rumo+ao+pr%C3%B3ximo+n%C3%ADvel.%22;CONNECTION+TERMINATED..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3800&pause=1500&color=7DF9FF&center=true&vCenter=true&width=650&height=30&lines=Cada+projeto+e+um+passo+a+mais+rumo+ao+proximo+nivel.;CONNECTION+TERMINATED..." />
 </div>
