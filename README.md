@@ -95,37 +95,31 @@ trata paginação, normaliza timestamps para UTC e exporta para CSV.
 </td>
 <td width="50%">
 
-### 🤖 Sprint — Laboratório de Programação
-`JAVA` `POO`
+### 💳 Análise de Crédito — Machine Learning
+`PYTHON` `SCIKIT-LEARN` `JUPYTER`
 
-Sistema de campeonato de robótica: cadastro de equipes, registro de combates,
-cálculo automático de pontuação e ranking com critério de desempate.
+Classificação de risco de crédito usando dados do LendingClub. Comparação entre
+Árvore de Decisão e Random Forest para prever inadimplência, com análise exploratória.
 
-[`ACCESS_REPO →`](https://github.com/MurilloMoya/sprint-lab-programacao)
+[`ACCESS_REPO →`](https://github.com/MurilloMoya/Analise_Credito_Machine-Learning)
 
 </td>
 </tr>
+</table>
+
+<br/>
+
+<table>
 <tr>
-<td width="50%">
+<td width="100%" align="center">
 
-### ☕ Java — Fundamentos
-`JAVA` `LÓGICA`
+### 🧠 Docstóteles — RAG + Web Scraping
+`PYTHON` `RAG` `FAISS` `WEB_SCRAPING`
 
-Coletânea de exercícios construindo os fundamentos da linguagem: calculadora,
-cálculo de frete, relatórios, pontuação de F1 e um jogo de adivinhação próprio.
+Transforma documentações em chats com IA sempre atualizada, combinando scraping
+inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
 
-[`ACCESS_REPO →`](https://github.com/MurilloMoya/java-fundamentos)
-
-</td>
-<td width="50%">
-
-### 🌐 Próximo módulo: RAG Assistant
-`PYTHON` `LLM` `VECTOR_DB`
-
-Assistente com RAG + web scraping, usando FAISS/ChromaDB e APIs gratuitas
-(Groq/Gemini). Em desenvolvimento.
-
-`STATUS: EM_CONSTRUÇÃO`
+`STATUS: EM_ANDAMENTO — 22% CONCLUÍDO`
 
 </td>
 </tr>
@@ -144,7 +138,7 @@ murillo@dev:~$ cat objetivos.log
 [✓] Consolidar lógica de programação e estrutura de dados
 [~] Aprofundar Python aplicado a dados
 [~] Praticar SQL e modelagem de banco de dados
-[ ] Construir projeto de IA com RAG (FAISS + Groq/Gemini)
+[~] Construir Docstóteles — projeto de IA com RAG (22% concluído)
 [ ] Conquistar primeiro estágio em AI/Data Engineering
 
 murillo@dev:~$ _
@@ -156,8 +150,8 @@ murillo@dev:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MurilloMoya&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MurilloMoya&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=MurilloMoya&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=MurilloMoya&theme=github-dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloMoya&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="49%" />
 
@@ -175,6 +169,13 @@ murillo@dev:~$ _
 
 </div>
 
+<!--
+Se o troféu acima aparecer quebrado, é porque sua conta ainda não tem
+histórico suficiente (poucos commits/repos públicos). Ele volta a funcionar
+sozinho conforme você usa mais o GitHub. Se preferir, remova esta seção
+inteira por enquanto e adicione de volta depois.
+-->
+
 ---
 
 ## `> SYS.CONTRIBUTION_STREAM`
@@ -188,7 +189,8 @@ murillo@dev:~$ _
 
 </div>
 
-> ⚙️ *A animação da cobra é gerada automaticamente via GitHub Actions — veja instruções de ativação no final deste arquivo.*
+> ⚙️ *Esta imagem só aparece depois de você ativar o GitHub Action (arquivo `snake.yml`
+> fornecido separadamente). Até lá, fica quebrada — é esperado, não é erro.*
 
 ---
 
