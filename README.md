@@ -2,11 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=SYSTEM+BOOTING...;LOADING+USER+PROFILE...;IDENTITY+CONFIRMED%3A+MURILLO_MOYA;MODULES%3A+JAVA+%2B+PYTHON+%2B+AI+%2F+DATA;STATUS%3A+SEEKING+ESTAGIO..." alt="Boot Sequence" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=MURILLO%20MOYA%20MARTINS&fontSize=32&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Data%20Engineering%20//%20System%20Online&descAlignY=60&descAlign=50&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=MURILLO%20MOYA%20MARTINS&fontSize=32&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Data%20Engineering%20%E2%80%A2%20System%20Online&descAlignY=60&descAlign=50&descSize=16" />
 
 <br/>
 
-[<img src="https://cdn.simpleicons.org/gmail/00F0FF" width="32" height="32" />](mailto:SEU_EMAIL_AQUI@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-00F0FF?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=00F0FF)](mailto:SEU_EMAIL_AQUI@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/murillo-moya)
 [![GitHub](https://img.shields.io/badge/GITHUB-EXPLORE-00F0FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=00F0FF)](https://github.com/MurilloMoya)
 
@@ -31,7 +31,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&height=35&lines=Cada+linha+de+c%C3%B3digo+%C3%A9+um+passo+rumo+ao+pr%C3%B3ximo+n%C3%ADvel.;Automatizando+processos%2C+treinando+modelos%2C+construindo+o+futuro." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&height=35&lines=Aprendendo+na+pratica%2C+um+projeto+de+cada+vez.;Automatizando+processos%2C+treinando+modelos%2C+construindo+o+futuro." />
 </div>
 
 ---
@@ -40,17 +40,30 @@
 
 <div align="center">
 
-#### Linguagens ativas
+<table>
+<tr>
+<th align="center" width="33%">Linguagens ativas</th>
+<th align="center" width="33%">Próximos módulos</th>
+<th align="center" width="33%">Terminal / IDEs</th>
+</tr>
+<tr>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" height="80" />
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" height="70" />
 
-#### Próximos módulos a carregar
+</td>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,spring&theme=dark" height="80" />
+<img src="https://skillicons.dev/icons?i=postgres,spring&theme=dark" height="70" />
 
-#### Terminal / IDEs
+</td>
+<td align="center">
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,git,github&theme=dark" height="80" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,git,github&theme=dark" height="70" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -210,7 +223,7 @@ por tema, com agentes especializados em busca, filtragem e resumo do conteúdo.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3800&pause=1500&color=7DF9FF&center=true&vCenter=true&width=750&height=40&lines=Cada+projeto+e+um+passo+a+mais+rumo+ao+proximo+nivel.;CONNECTION+TERMINATED..." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3800&pause=1500&color=7DF9FF&center=true&vCenter=true&width=650&height=30&lines=Cada+projeto+e+um+passo+a+mais+rumo+ao+proximo+nivel.;CONNECTION+TERMINATED..." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=130&section=footer" />
 </div>
