@@ -20,15 +20,19 @@
 
 ### `> whoami`
 
-```yaml
-> USER:         Murillo Moya Martins
-> LOCATION:     São Paulo, BR
-> STATUS:       Cursando Sistemas de Informação — FIAP
-> EXCHANGE:     Monterey Bay Academy (California, US)
-> MISSION:      Estágio em AI Engineering / Data Engineering
-> CORE_STACK:   Java :: Python
-> CURRENT_FOCUS: Engenharia de Dados → Inteligência Artificial
-```
+<div align="center">
+
+| | |
+|---|---|
+| 👤 **USER** | Murillo Moya Martins |
+| 📍 **LOCATION** | São Paulo, BR |
+| 🎓 **STATUS** | Cursando Sistemas de Informação — FIAP |
+| 🌎 **EXCHANGE** | Monterey Bay Academy (California, US) |
+| 🎯 **MISSION** | Estágio em AI Engineering / Data Engineering |
+| ⚙️ **CORE_STACK** | `Java` :: `Python` |
+| 🚀 **CURRENT_FOCUS** | Engenharia de Dados → Inteligência Artificial |
+
+</div>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=650&height=35&lines=Cada+linha+de+c%C3%B3digo+%C3%A9+um+passo+rumo+ao+pr%C3%B3ximo+n%C3%ADvel.;Construindo+base+s%C3%B3lida%2C+um+sistema+por+vez." />
@@ -85,23 +89,29 @@
 <td width="50%">
 
 ### 🛰️ ETL Schiphol Airport
-`PYTHON` `API_REST` `DATA_PIPELINE`
+
+![Python](https://img.shields.io/badge/PYTHON-00F0FF?style=flat-square&logoColor=black)
+![API](https://img.shields.io/badge/API__REST-7DF9FF?style=flat-square&logoColor=black)
+![Pipeline](https://img.shields.io/badge/DATA__PIPELINE-00D9FF?style=flat-square&logoColor=black)
 
 Pipeline ETL que extrai dados em tempo real da API pública do Aeroporto de Schiphol,
 trata paginação, normaliza timestamps para UTC e exporta para CSV.
 
-[`ACCESS_REPO →`](https://github.com/MurilloMoya/ETL-schiphol-airport)
+**[`ACCESS_REPO →`](https://github.com/MurilloMoya/ETL-schiphol-airport)**
 
 </td>
 <td width="50%">
 
 ### 💳 Análise de Crédito — Machine Learning
-`PYTHON` `SCIKIT-LEARN` `JUPYTER`
+
+![Python](https://img.shields.io/badge/PYTHON-00F0FF?style=flat-square&logoColor=black)
+![Sklearn](https://img.shields.io/badge/SCIKIT--LEARN-7DF9FF?style=flat-square&logoColor=black)
+![Jupyter](https://img.shields.io/badge/JUPYTER-00D9FF?style=flat-square&logoColor=black)
 
 Classificação de risco de crédito usando dados do LendingClub. Comparação entre
 Árvore de Decisão e Random Forest para prever inadimplência, com análise exploratória.
 
-[`ACCESS_REPO →`](https://github.com/MurilloMoya/Analise_Credito_Machine-Learning)
+**[`ACCESS_REPO →`](https://github.com/MurilloMoya/Analise_Credito_Machine-Learning)**
 
 </td>
 </tr>
@@ -114,12 +124,16 @@ Classificação de risco de crédito usando dados do LendingClub. Comparação e
 <td width="100%" align="center">
 
 ### 🧠 Docstóteles — RAG + Web Scraping
-`PYTHON` `RAG` `FAISS` `WEB_SCRAPING`
+
+![Python](https://img.shields.io/badge/PYTHON-00F0FF?style=flat-square&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-7DF9FF?style=flat-square&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-00D9FF?style=flat-square&logoColor=black)
+![Scraping](https://img.shields.io/badge/WEB__SCRAPING-00A8CC?style=flat-square&logoColor=black)
 
 Transforma documentações em chats com IA sempre atualizada, combinando scraping
 inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
 
-`STATUS: EM_ANDAMENTO — 22% CONCLUÍDO`
+`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 22%` `EM_ANDAMENTO`
 
 </td>
 </tr>
@@ -131,18 +145,18 @@ inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
 
 ## `> SYS.CURRENT_OBJECTIVES`
 
-```bash
-murillo@dev:~$ cat objetivos.log
+<div align="center">
 
-[✓] Concluir fundamentos de Java e POO
-[✓] Consolidar lógica de programação e estrutura de dados
-[~] Aprofundar Python aplicado a dados
-[~] Praticar SQL e modelagem de banco de dados
-[~] Construir Docstóteles — projeto de IA com RAG (22% concluído)
-[ ] Conquistar primeiro estágio em AI/Data Engineering
+| Objetivo | Status |
+|---|:---:|
+| Concluir fundamentos de Java e POO | ✅ |
+| Consolidar lógica de programação e estrutura de dados | ✅ |
+| Aprofundar Python aplicado a dados | 🟡 `EM PROGRESSO` |
+| Praticar SQL e modelagem de banco de dados | 🟡 `EM PROGRESSO` |
+| Construir Docstóteles — projeto de IA com RAG | 🟡 `22% CONCLUÍDO` |
+| Conquistar primeiro estágio em AI/Data Engineering | ⚪ `EM ABERTO` |
 
-murillo@dev:~$ _
-```
+</div>
 
 ---
 
