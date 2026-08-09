@@ -24,7 +24,7 @@
 <tr><th align="center">🌎</th><th align="left">Intercâmbio</th><td align="left">Monterey Bay Academy, Califórnia — EUA (6 meses)</td></tr>
 <tr><th align="center">🏦</th><th align="left">Experiência</th><td align="left">Jovem Aprendiz @Banco Safra — Prevenção a Fraudes</td></tr>
 <tr><th align="center">🎯</th><th align="left">Missão</th><td align="left">Estágio em AI Engineering / Data Engineering</td></tr>
-<tr><th align="center">⚙️</th><th align="left">Stack core</th><td align="left">Java · Python · SQL</td></tr>
+<tr><th align="center">⚙️</th><th align="left">Stack principal</th><td align="left">Java · Python · SQL</td></tr>
 <tr><th align="center">🚀</th><th align="left">Foco atual</th><td align="left">Construindo portfólio em IA generativa e RAG</td></tr>
 </table>
 
