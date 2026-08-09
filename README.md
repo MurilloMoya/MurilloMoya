@@ -10,15 +10,15 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MurilloMoya&color=00F0FF&style=for-the-badge&label=SCANS)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/murillo-moya)
-[![Gmail](https://img.shields.io/badge/EMAIL-TRANSMIT-00F0FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:SEU_EMAIL_AQUI@gmail.com)
+![Profile Views](https://img.shields.io/badge/SCANS-9-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logo=linkedin&logoColor=black)](https://linkedin.com/in/murillo-moya)
+[![Gmail](https://img.shields.io/badge/EMAIL-TRANSMIT-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logo=gmail&logoColor=black)](mailto:SEU_EMAIL_AQUI@gmail.com)
 
 </div>
 
 ---
 
-### `> whoami`
+### 🧬 Sobre Mim
 
 <div align="center">
 
@@ -40,27 +40,27 @@
 
 ---
 
-## `> SYS.TECH_STACK`
+## 🛠️ Tecnologias
 
 <div align="center">
 
 **Linguagens ativas**
 
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" height="60" />
 
 **Próximos módulos a carregar**
 
-<img src="https://skillicons.dev/icons?i=mysql,spring,pandas&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,spring&theme=dark" height="60" />
 
 **Terminal / IDEs**
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=idea,vscode,pycharm,git,github&theme=dark" height="60" />
 
 </div>
 
 ---
 
-## `> SYS.KNOWLEDGE_MAP`
+## 📚 Conhecimentos
 
 <div align="center">
 
@@ -80,7 +80,7 @@
 
 ---
 
-## `> SYS.PROJECTS --list`
+## 📂 Projetos em Destaque
 
 <div align="center">
 
@@ -90,28 +90,28 @@
 
 ### 🛰️ ETL Schiphol Airport
 
-![Python](https://img.shields.io/badge/PYTHON-00F0FF?style=flat-square&logoColor=black)
-![API](https://img.shields.io/badge/API__REST-7DF9FF?style=flat-square&logoColor=black)
-![Pipeline](https://img.shields.io/badge/DATA__PIPELINE-00D9FF?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![API](https://img.shields.io/badge/API__REST-FFFFFF?style=for-the-badge&logoColor=black)
+![Pipeline](https://img.shields.io/badge/DATA__PIPELINE-FFFFFF?style=for-the-badge&logoColor=black)
 
 Pipeline ETL que extrai dados em tempo real da API pública do Aeroporto de Schiphol,
 trata paginação, normaliza timestamps para UTC e exporta para CSV.
 
-**[`ACCESS_REPO →`](https://github.com/MurilloMoya/ETL-schiphol-airport)**
+[![ACCESS_REPO](https://img.shields.io/badge/ACCESS_REPO-→-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)](https://github.com/MurilloMoya/ETL-schiphol-airport)
 
 </td>
 <td width="50%">
 
 ### 💳 Análise de Crédito — Machine Learning
 
-![Python](https://img.shields.io/badge/PYTHON-00F0FF?style=flat-square&logoColor=black)
-![Sklearn](https://img.shields.io/badge/SCIKIT--LEARN-7DF9FF?style=flat-square&logoColor=black)
-![Jupyter](https://img.shields.io/badge/JUPYTER-00D9FF?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![Sklearn](https://img.shields.io/badge/SCIKIT--LEARN-FFFFFF?style=for-the-badge&logoColor=black)
+![Jupyter](https://img.shields.io/badge/JUPYTER-FFFFFF?style=for-the-badge&logoColor=black)
 
 Classificação de risco de crédito usando dados do LendingClub. Comparação entre
 Árvore de Decisão e Random Forest para prever inadimplência, com análise exploratória.
 
-**[`ACCESS_REPO →`](https://github.com/MurilloMoya/Analise_Credito_Machine-Learning)**
+[![ACCESS_REPO](https://img.shields.io/badge/ACCESS_REPO-→-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)](https://github.com/MurilloMoya/Analise_Credito_Machine-Learning)
 
 </td>
 </tr>
@@ -125,15 +125,15 @@ Classificação de risco de crédito usando dados do LendingClub. Comparação e
 
 ### 🧠 Docstóteles — RAG + Web Scraping
 
-![Python](https://img.shields.io/badge/PYTHON-00F0FF?style=flat-square&logoColor=black)
-![RAG](https://img.shields.io/badge/RAG-7DF9FF?style=flat-square&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-00D9FF?style=flat-square&logoColor=black)
-![Scraping](https://img.shields.io/badge/WEB__SCRAPING-00A8CC?style=flat-square&logoColor=black)
+![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-FFFFFF?style=for-the-badge&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-FFFFFF?style=for-the-badge&logoColor=black)
+![Scraping](https://img.shields.io/badge/WEB__SCRAPING-FFFFFF?style=for-the-badge&logoColor=black)
 
 Transforma documentações em chats com IA sempre atualizada, combinando scraping
 inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
 
-`[███░░░░░░░░░░░░░░░░░░░░░░░░░░░] 22%` `EM_ANDAMENTO`
+![Docstóteles Progress](https://img.shields.io/badge/PROGRESSO-22%25_EM_ANDAMENTO-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
 
 </td>
 </tr>
@@ -143,7 +143,7 @@ inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
 
 ---
 
-## `> SYS.CURRENT_OBJECTIVES`
+## 🎯 Objetivos Atuais
 
 <div align="center">
 
@@ -160,7 +160,7 @@ inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
 
 ---
 
-## `> SYS.ANALYTICS`
+## 📊 Estatísticas
 
 <div align="center">
 
@@ -175,7 +175,7 @@ inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
 
 ---
 
-## `> SYS.ACHIEVEMENTS`
+## 🏆 Conquistas
 
 <div align="center">
 
@@ -192,7 +192,7 @@ inteira por enquanto e adicione de volta depois.
 
 ---
 
-## `> SYS.CONTRIBUTION_STREAM`
+## 🐍 Atividade no GitHub
 
 <div align="center">
 
@@ -207,16 +207,6 @@ inteira por enquanto e adicione de volta depois.
 > fornecido separadamente). Até lá, fica quebrada — é esperado, não é erro.*
 
 ---
-
-<div align="center">
-
-### `> SYS.NETWORK`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/murillo-moya)
-[![Gmail](https://img.shields.io/badge/Gmail-00F0FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:SEU_EMAIL_AQUI@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00F0FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MurilloMoya)
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
