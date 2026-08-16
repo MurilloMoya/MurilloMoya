@@ -133,17 +133,18 @@ Classificação de risco de crédito usando dados do LendingClub. Comparação e
 <tr>
 <td width="100%" align="center">
 
-### 🧠 Docstóteles (RAG + Web Scraping)
+### 🧠 Docstóteles AI (RAG + Web Scraping)
 
 ![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
-![BeautifulSoup](https://img.shields.io/badge/BEAUTIFULSOUP-FFFFFF?style=for-the-badge&logoColor=black)
+![Firecrawl](https://img.shields.io/badge/FIRECRAWL-FFFFFF?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LANGCHAIN-FFFFFF?style=for-the-badge&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-FFFFFF?style=for-the-badge&logoColor=black)
-![GroqGemini](https://img.shields.io/badge/GROQ_%2F_GEMINI-FFFFFF?style=for-the-badge&logoColor=black)
+![Groq](https://img.shields.io/badge/GROQ-FFFFFF?style=for-the-badge&logoColor=black)
 
-Transforma documentações em chats com IA sempre atualizada, combinando scraping
-inteligente com RAG. Ferramentas 100% gratuitas (Groq/Gemini, FAISS/ChromaDB).
+Transforma qualquer documentação técnica em um assistente de IA conversável, combinando
+scraping inteligente (Firecrawl) com RAG (LangChain + Groq). Ferramentas 100% gratuitas.
 
-![Docstóteles Progress](https://img.shields.io/badge/PROGRESSO-22%25_EM_ANDAMENTO-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
+[![ACCESS_REPO](https://img.shields.io/badge/ACCESS_REPO-→-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)](https://github.com/MurilloMoya/docstoteles-ai)
 
 </td>
 </tr>
