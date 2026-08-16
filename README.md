@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=750&height=50&lines=SYSTEM+BOOTING...;LOADING+USER+PROFILE...;IDENTITY+CONFIRMED%3A+MURILLO_MOYA;MODULES%3A+JAVA+%2B+PYTHON+%2B+AI+%2F+DATA;STATUS%3A+SEEKING+ESTAGIO..." alt="Boot Sequence" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=MURILLO%20MOYA%20MARTINS&fontSize=32&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20Data%20Engineering%20%E2%80%A2%20System%20Online&descAlignY=60&descAlign=50&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=MURILLO%20MOYA%20MARTINS&fontSize=32&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20Data%20Engineering&descAlignY=60&descAlign=50&descSize=16" />
 
 <br/>
 
@@ -82,7 +82,7 @@
 | PySpark | 🟡 `LOADING...` |
 | Machine Learning (Scikit-learn) | 🟡 `LOADING...` |
 | IA Generativa / RAG / Agentes | 🟡 `LOADING...` |
-| n8n — Automação de Fluxos | ⚪ `QUEUED` |
+| n8n — Automação de Fluxos | 🟡 `LOADING...` |
 
 </div>
 
@@ -153,26 +153,11 @@ scraping inteligente (Firecrawl) com RAG (LangChain + Groq). Ferramentas 100% gr
 
 ---
 
-## 🔮 PROJETOS FUTUROS
+## 🔮 PROJETOS EM CONSTRUÇÃO
 
 <div align="center">
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### 📊 Pipeline de Categorização com IA + Banco de Dados
-
-![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
-![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-FFFFFF?style=for-the-badge&logoColor=black)
-![LLM](https://img.shields.io/badge/LLM-FFFFFF?style=for-the-badge&logoColor=black)
-
-Pipeline que extrai dados de texto (tickets, conversas ou reviews), usa LLM para classificar
-por tema/categoria e persiste os dados estruturados em banco relacional para consulta e
-análise posterior.
-
-![Status](https://img.shields.io/badge/STATUS-PLANEJADO-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
-
-</td>
 <td width="33%" valign="top">
 
 ### 🤖 FAQ Agent — WhatsApp
@@ -181,23 +166,39 @@ análise posterior.
 ![LLM](https://img.shields.io/badge/LLM-FFFFFF?style=for-the-badge&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-FFFFFF?style=for-the-badge&logoColor=black)
 
-Agente conversacional via WhatsApp que responde perguntas frequentes automaticamente,
-usando LLM para entender a intenção da pergunta e retornar a resposta certa da base
-de conhecimento.
+Automação de atendimento que recebe texto ou áudio no WhatsApp, transcreve a mensagem,
+consulta uma base de conhecimento via RAG e responde automaticamente ao cliente. Fluxo
+orquestrado 100% visual com n8n.
+
+![Status](https://img.shields.io/badge/STATUS-EM_ANDAMENTO-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
+
+</td>
+<td width="33%" valign="top">
+
+### 🗃️ CRUD Completo com SQLAlchemy
+
+![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLALCHEMY-FFFFFF?style=for-the-badge&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logoColor=black)
+
+Base de dados relacional construída do zero com SQLAlchemy, implementando um CRUD
+completo (Create, Read, Update, Delete). ORM em Python para persistência de dados
+estruturados vindos de pipelines de IA.
 
 ![Status](https://img.shields.io/badge/STATUS-PLANEJADO-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
 
 </td>
 <td width="33%" valign="top">
 
-### 📰 News Curation Agent
+### 🎬 FilmPro — Agente de Recomendação de Filmes
 
 ![Agno](https://img.shields.io/badge/AGNO-FFFFFF?style=for-the-badge&logoColor=black)
-![Multiagente](https://img.shields.io/badge/MULTIAGENTE-FFFFFF?style=for-the-badge&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FASTAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=black)
 ![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
 
-Sistema multiagente construído com Agno para curadoria automática de notícias relevantes
-por tema, com agentes especializados em busca, filtragem e resumo do conteúdo.
+Assistente de recomendação de filmes com agente de IA construído em Agno, exposto via
+API em FastAPI e conectado a uma interface web. Projeto de ponta a ponta: do agente
+inteligente até a entrega como aplicação consumível.
 
 ![Status](https://img.shields.io/badge/STATUS-PLANEJADO-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)
 
