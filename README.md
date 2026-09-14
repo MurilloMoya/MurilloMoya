@@ -139,9 +139,12 @@ mobile (colunas empilhadas via CSS). Projeto colaborativo, publicado na Vercel.
 ![CSS](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FFFFFF?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FASTAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=black)
 
-Landing page responsiva inspirada no site da Starbucks. Front-end em HTML, CSS e JS
-já concluído, com back-end em Python e PostgreSQL planejado como próxima etapa.
+Landing page responsiva inspirada no site da Starbucks, com sistema de pedidos
+fullstack: front-end em HTML, CSS e JS consumindo uma API em FastAPI, com
+SQLAlchemy e banco PostgreSQL, cobrindo criação, listagem e exclusão de pedidos.
 
 [![ACCESS_REPO](https://img.shields.io/badge/ACCESS_REPO-→-FFFFFF?style=for-the-badge&labelColor=0D1B2A&logoColor=black)](https://github.com/MurilloMoya/starbucks-order-app)
 
